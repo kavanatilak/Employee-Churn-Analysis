@@ -8,15 +8,6 @@ Data Cleaning: Handling missing values, removing duplicates, and addressing any 
 Data Transformation: Transforming categorical variables, scaling numerical features, and preparing the data for modeling.
 Model Building and Evaluation: Developing a logistic regression model to predict employee churn and evaluating its performance using appropriate metrics.
 
-**Dataset**
-The dataset provided contains information about employees, job-related attributes, and churn status.
-
-**Power BI Dashboard**
-A Power BI dashboard will be added shortly to provide interactive visualizations and insights into the data.
-
-**Tree-Based Analysis**
-Additionally, a tree-based analysis will be performed and added shortly to the repository to explore feature importance and gain further insights into factors influencing employee churn.
-
 **How to Use**
 To replicate the analysis or explore the code:
 1. Clone or download this repository.
